@@ -1,0 +1,62 @@
+<?php 
+  return [
+    // setting page
+    'setting' => 'Nacional',
+    'Language' => 'Idioma',
+    'set_lang' => 'Seleccione el idioma',
+    'label_lang' => 'Establecer como idioma predeterminado',
+    'English' => 'Inglés',
+    'Korean' => 'coreano',
+    'Chinese' => 'chino',
+    'Spanish' => 'Español',
+    'Portuguese' => 'portugués',
+    'save' => 'SALVAR',
+    'lang_msg' => 'La configuración es exitosa!',
+    // notice page
+    'notice_title' => 'GESTIÓN DE AVISO',
+    'msg_cat' => 'Categoría de mensaje',
+    'category' => 'Categoría',
+    'membership' => 'Afiliación',
+    'account' => 'Cuenta',
+    'diamond' => 'Diamante',
+    'alert' => 'Alerta',
+    'search' => 'Usuario de búsqueda',
+    'search_wd' => 'Buscar',
+    'msg_to' => 'Mensaje para',
+    'searched_user' => 'Usuario buscado',
+    'attach_img' => 'Adjuntar imagen',
+    'drop_img' => 'Arrastra los archivos aquí para subirlos',
+    'submit' => 'ENVIAR',
+    'cancel' => 'CANCELAR',
+    // sidebar
+    'settings' => 'Configuraciones',
+    'notice' => 'Gestión de avisos',
+    'payment' => 'Gestión de facturación',
+    'users' => 'Administrar usuarios',
+    'home' => 'Casa',
+    'admin_title' => 'PANEL DE ADMINISTRACIÓN - AMOR',
+    'logout' => 'Desconectar',
+    'version' => 'Versión',
+    // payment page
+    'payment_title' => 'GESTIÓN DE FACTURACIÓN',
+    'manage_user' => 'GESTIONAR USUARIOS',  
+    // user page
+    'no' => 'Orden',
+    'name' => 'Nombre',
+    'email' => 'Email',
+    'phone' => 'número de teléfono',
+    'recount' => 'suspensión y recuento de cuenta',
+    'edit' => 'Editar',
+    'user_info' => 'informacion del usuario',
+    'gender' => 'Género',
+    'region' => 'Región',
+    'account_dg' => 'Cuenta',
+    'start_date' => 'Fecha de inicio',
+    'expired_date' => 'Fecha de vencimiento',
+    'country' => 'Nacionalidad',
+    'age' => 'años',
+    'hobby' => 'Hobby',
+    // dashboard
+    'dashboard' => 'TABLERO'
+  ];
+?>

@@ -1,0 +1,62 @@
+<?php 
+  return [
+    // setting page
+    'setting' => 'Configuração',
+    'Language' => 'Língua',
+    'set_lang' => 'Selecione o idioma',
+    'label_lang' => 'Definir como idioma padrão',
+    'English' => 'Inglês',
+    'Korean' => 'Coreano',
+    'Chinese' => 'Chinês',
+    'Spanish' => 'Espanhol',
+    'Portuguese' => 'Português',
+    'save' => 'SALVE',
+    'lang_msg' => 'A configuração é bem sucedida!',
+    // notice page
+    'notice_title' => 'GESTÃO DE AVISOS',
+    'msg_cat' => 'Categoria de Mensagem',
+    'category' => 'Categoria',
+    'membership' => 'Filiação',
+    'account' => 'Conta',
+    'diamond' => 'Diamante',
+    'alert' => 'Alerta',
+    'search' => 'Pesquisar usuário',
+    'search_wd' => 'Pesquisa',
+    'msg_to' => 'Mensagem para',
+    'searched_user' => 'Usuário selecionado',
+    'attach_img' => 'Anexar imagem',
+    'drop_img' => 'Soltar arquivos aqui para enviar',
+    'submit' => 'ENVIAR',
+    'cancel' => 'CANCELAR',
+    // sidebar
+    'settings' => 'Configurações',
+    'notice' => 'Gerenciamento de avisos',
+    'payment' => 'Gestão de Cobrança',
+    'users' => 'Gerenciar usuários',
+    'home' => 'Casa',
+    'admin_title' => 'PAINEL DE ADMINISTRAÇÃO - AMOR',
+    'logout' => 'Sair',
+    'version' => 'Versão',
+    // payment page
+    'payment_title' => 'GESTÃO DE FATURAMENTO',
+    'manage_user' => 'GERENCIAR USUÁRIOS',  
+    // user page
+    'no' => 'Ordem',
+    'name' => 'Nome',
+    'email' => 'O email',
+    'phone' => 'Número de telefone',
+    'recount' => 'Suspensão e recontagem da conta',
+    'edit' => 'Editar',
+    'user_info' => 'Informação do usuário',
+    'gender' => 'Gênero',
+    'region' => 'Região',
+    'account_dg' => 'Conta',
+    'start_date' => 'Data de início',
+    'expired_date' => 'Data expirada',
+    'country' => 'Nacionalidade',
+    'age' => 'Era',
+    'hobby' => 'Passatempo',
+    // dashboard
+    'dashboard' => 'PAINEL DE CONTROLE'
+  ];
+?>

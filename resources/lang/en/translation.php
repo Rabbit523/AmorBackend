@@ -1,0 +1,62 @@
+<?php 
+  return [
+    // setting page
+    'setting' => 'SETTING',
+    'Language' => 'Language',
+    'set_lang' => 'Select language',
+    'label_lang' => 'Set as a default Language',
+    'English' => 'English',
+    'Korean' => 'Korean',
+    'Chinese' => 'Chinese',
+    'Spanish' => 'Spanish',
+    'Portuguese' => 'Portuguese',
+    'save' => 'SAVE',
+    'lang_msg' => 'Setting is succeed!',
+    // notice page
+    'notice_title' => 'NOTICE MANAGEMENT',
+    'msg_cat' => 'Message Category',
+    'category' => 'Category',
+    'membership' => 'Memebership',
+    'account' => 'Account',
+    'diamond' => 'Diamond',
+    'alert' => 'Alert',
+    'search' => 'Search User',
+    'search_wd' => 'Search',
+    'msg_to' => 'Message To',
+    'searched_user' => 'Searched User',
+    'attach_img' => 'Attach Image',
+    'drop_img' => 'Drop files here to upload',
+    'submit' => 'SUBMIT',
+    'cancel' => 'CANCEL',
+    // sidebar
+    'settings' => 'Settings',
+    'notice' => 'Notice Management',
+    'payment' => 'Billing Management',
+    'users' => 'Manage Users',
+    'home' => 'Home',
+    'admin_title' => 'ADMINPANEL - AMOR',
+    'logout' => 'Sign Out',
+    'version' => 'Version',
+    // payment page
+    'payment_title' => 'BILLING MANAGEMENT',
+    'manage_user' => 'MANAGE USERS',  
+    // user page
+    'no' => 'No',
+    'name' => 'Name',
+    'email' => 'Email',
+    'phone' => 'Phone',
+    'recount' => 'account supension & recount',
+    'edit' => 'edit',
+    'user_info' => 'User Information',
+    'gender' => 'Gender',
+    'region' => 'Region',
+    'account_dg' => 'Account',
+    'start_date' => 'Start Date',
+    'expired_date' => 'Expired Date',
+    'country' => 'Nationality', 
+    'age' => 'Age',
+    'hobby' => 'Hobby',
+    // dashboard
+    'dashboard' => 'DASHBOARD'
+  ];
+?>
